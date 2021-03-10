@@ -11,7 +11,12 @@
             "registered": "2012/02/01",
             "role": "Staff",
             "status": "Banned"
+        },
+        {
+            "username": "Ebbe Gemariah",
+            "registered": "2012/02/01",
+            "role": "Admin",
+            "status": "Inactive"
         }
     ],
-    "pages": 5
-}
+    "pages": 5}
